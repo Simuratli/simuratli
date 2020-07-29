@@ -53,3 +53,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simuratli&zsh-theme&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simuratli&zsh-theme&layout=compact" />
 </a>
+
+
+<!--START_SECTION:waka-->
+```text
+React      1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+JavaScript 1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
+CSS        24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+j          21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+HTML       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+```
+<!--END_SECTION:waka-->
