@@ -1,7 +1,9 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <img src="https://github.com/Simuratli/simuratli/blob/master/img/mig.svg" />
-
+<p>
+2016 - 2020: BSc in Computer Engineering, ASOIU
+</p>
 <h3 align="center">Social Networks</h3>
 
 <p align="center">
