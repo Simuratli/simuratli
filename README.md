@@ -50,6 +50,6 @@
 <br/>
 
 <a href="https://github.com/simuratli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simuratli&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simuratli&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simuratli&zsh-theme&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simuratli&zsh-theme&layout=compact" />
 </a>
