@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="img/mig.svg" />
 
 <h3 align="center">Social Networks</h3>
 
