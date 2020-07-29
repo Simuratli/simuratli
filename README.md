@@ -6,6 +6,7 @@
 	<a href="https://twitter.com/simuratli"><img src="https://img.shields.io/twitter/follow/simuratli?label=Follow%20me&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/elcan-simuratli-36678818a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
     <a href="https://www.facebook.com/simuratli/"><img src="https://img.shields.io/badge/facebook--_.svg?style=social&logo=facebook" alt="LinkedIn"></a>
+	<a href="https://medium.com/@simuratli"><img src="https://img.shields.io/badge/medium--_.svg?style=social&logo=medium" alt="Medium"></a>
 </p>
 
 - 🔭 I’m currently working on <a href="#">Abyssos</a>
