@@ -47,3 +47,8 @@
   ![Invision](https://img.shields.io/badge/-Invision-333333?style=flat&logo=invision)
 
 <br/>
+
+<a href="https://github.com/simuratli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=simuratli&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simuratli&theme=buefy&layout=compact" />
+</a>
