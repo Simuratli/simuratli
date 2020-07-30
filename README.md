@@ -4,7 +4,7 @@
 <p>
 2016 - 2020: BSc in Computer Engineering, ASOIU
 </p>
-<h3 align="center">Social Networks</h3>
+<h3 align="center">Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Handshake.gif" height="32px" style="max-width:100%;"> </h3>
 
 <p align="center">
 	<a href="https://github.com/simuratli"><img src="https://img.shields.io/github/followers/simuratli?label=Follow%20me&style=social" alt="GitHub"></a>
