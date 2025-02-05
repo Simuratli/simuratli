@@ -68,13 +68,3 @@ Frontend Engineer with 5+ years of experience specializing in React, Next.js, an
 
 ### 📝 Latest Medium Articles
 <!-- Consider adding a GitHub Action to automatically update your latest Medium articles here -->
-
-<!--START_SECTION:waka-->
-```text
-React       1 hr 47 mins    ██████████░░░░░░░░░░░░░░░   39.80 % 
-JavaScript  1 hr 22 mins    ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-CSS         24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-HTML        21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-PHP         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-```
-<!--END_SECTION:waka-->
