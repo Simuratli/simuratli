@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███████╗██╗      ██╗ █████╗ ███╗   ██╗
-██╔════╝██║      ██║██╔══██╗████╗  ██║
-█████╗  ██║      ██║███████║██╔██╗ ██║
-██╔══╝  ██║ ██   ██║██╔══██║██║╚██╗██║
-███████╗███████╗ ██║██║  ██║██║ ╚████║
-╚══════╝╚══════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
 # Eljan Simuratli
 
 **Frontend Engineer** · React · Next.js · TypeScript
@@ -225,14 +216,21 @@ Custom chart component library published on NPM.
 
 ## Latest on Medium
 
-> ✍️ I write about React, TypeScript, Next.js, and modern frontend architecture.
+> ✍️ I write about React, TypeScript, Next.js, and modern frontend architecture — published in **Level Up Coding** and **JavaScript in Plain English**.
 
-📖 [Read my articles on Medium →](https://medium.com/@simuratli)
+| 📅 | Article |
+|----|---------|
+| Mar 2026 | [ADVANCED ZUSTAND "4" — Slices Pattern & Scalable Store Architecture](https://levelup.gitconnected.com/advanced-zustand-4-slices-pattern-scalable-store-architecture-b07301035eca) |
+| Feb 2026 | [ADVANCED ZUSTAND "3" — Middleware Internals & Writing Custom Middleware](https://levelup.gitconnected.com/advanced-zustand-3-middleware-internals-writing-custom-middleware-86e47b2118d2) |
+| Feb 2026 | [ADVANCED ZUSTAND "2" — Selectors, Equality Functions, and Re-render Controls](https://levelup.gitconnected.com/advanced-zustand-2-selectors-equality-functions-and-re-render-controls-feed3550b890) |
+| Feb 2026 | [ADVANCED ZUSTAND "1" — Zustand Mental Model: How it Differs from Redux?](https://levelup.gitconnected.com/advanced-zustand-1-zustand-mental-model-how-it-differs-from-redux-d43a6c2f622e) |
+| Sep 2025 | [Design Patterns in Action: Module Pattern for Developers](https://simuratli.medium.com/design-patterns-in-action-module-pattern-for-developers-4fb0fc82a981) |
+| Sep 2025 | [Observer Pattern: From Class-Based Implementation to React Event Bus](https://levelup.gitconnected.com/observer-pattern-from-class-based-implementation-to-react-event-bus-77bde21d6811) |
+| Jul 2025 | [5 Pro Tips for Mastering TanStack Query in React](https://javascript.plainenglish.io/5-pro-tips-for-mastering-tanstack-query-in-react-731c3f737238) |
+| Jun 2025 | [Controlled vs. Uncontrolled Components in React: When and Why to Use Each](https://simuratli.medium.com/controlled-vs-uncontrolled-components-in-react-when-and-why-to-use-each-efe18e23fcf8) |
+| Dec 2024 | [Build a Chrome Extension to Scrape LinkedIn User Details](https://levelup.gitconnected.com/mastering-linkedin-data-extraction-build-a-chrome-extension-to-scrape-user-details-an-advanced-b8a1a15cbfd8) |
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-> 💡 *Tip: Add [GitHub Action for Medium RSS](https://github.com/gautamkrishnar/blog-post-workflow) to auto-update this section.*
+📖 [See all 60+ articles on Medium →](https://medium.com/@simuratli)
 
 ---
 
