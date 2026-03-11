@@ -1,5 +1,14 @@
 <div align="center">
 
+```
+███████╗██╗      ██╗ █████╗ ███╗   ██╗
+██╔════╝██║      ██║██╔══██╗████╗  ██║
+█████╗  ██║      ██║███████║██╔██╗ ██║
+██╔══╝  ██║ ██   ██║██╔══██║██║╚██╗██║
+███████╗███████╗ ██║██║  ██║██║ ╚████║
+╚══════╝╚══════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
 # Eljan Simuratli
 
 **Frontend Engineer** · React · Next.js · TypeScript
@@ -108,90 +117,82 @@ Frontend engineer with **5+ years of experience** building high-performance web 
 <tr>
 <td width="50%">
 
-### 🗂️ Trello Clone
-Full-featured project management app with real-time drag & drop.
+### 📊 [Next.js Dashboard (Shadcn)](https://dashboard-shadcn-wine.vercel.app/)
+Full-featured admin dashboard with revenue charts, transaction tables, user management, browser analytics, and a built-in to-do list.
+
+**Stack:** Next.js · TypeScript · Shadcn UI · Tailwind CSS · Recharts
+
+</td>
+<td width="50%">
+
+### 🗒️ [Notion Clone](https://notion-clone-seven-amber.vercel.app/)
+Feature-rich Notion-like workspace with rich text editing, nested pages, and real-time collaboration.
+
+**Stack:** Next.js · TypeScript · Rich text editor
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗂️ [Trello Clone](https://trellocl.vercel.app/)
+Full-featured project management app with real-time drag & drop boards and card management.
 
 **Stack:** Next.js · TypeScript · Zustand · Tailwind CSS · Shadcn UI · Clerk · Stripe · Unsplash API
 
 </td>
 <td width="50%">
 
-### 🌐 3D Radio Globe
-Interactive 3D world map streaming radios from different regions.
-
-**Stack:** Three.js · WebGL · Modern Web APIs
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 CarMind — Telegram Bot
-AI-powered Telegram bot integrated with Groq AI for car-related queries.
+### 🤖 [CarMind — Telegram Bot](https://t.me/CarMindBot)
+AI-powered Telegram bot that answers car-related queries using Groq AI with natural language understanding.
 
 **Stack:** Node.js · Telegram Bot API · Groq AI
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
-### 📄 AI PDF Summarizer
-Upload a PDF and get an intelligent summary powered by AI.
+### 📄 [AI PDF Summarizer](https://ai-pdf-summarizer.vercel.app/)
+Upload any PDF and get an instant intelligent summary powered by AI.
 
 **Stack:** React · AI/LLM integration · PDF parsing
+
+</td>
+<td width="50%">
+
+### 📦 [NPM Chart Library](https://www.npmjs.com/package/@simuratli/charts)
+Custom reusable chart component library published on NPM for React applications.
+
+**Stack:** React · TypeScript · D3.js · NPM
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🗒️ Notion Clone
-Feature-rich Notion-like editor with real-time collaboration.
+### 🌐 [Unkai Radio — 3D Globe](https://unkairadio.vercel.app/)
+Interactive 3D world map streaming radio stations from different regions with an immersive atmospheric UI.
 
-**Stack:** Next.js · TypeScript · Rich text editor
+**Stack:** Three.js · WebGL · React · Web Audio API
 
 </td>
 <td width="50%">
 
-### 🪟 Windows 98
-Nostalgic Windows 98 desktop simulator in the browser.
+### 🪟 [Windows 98 Portfolio](https://portfolio-red-zeta.vercel.app/)
+Nostalgic Windows 98 desktop simulator in the browser — doubles as a creative portfolio.
 
 **Stack:** React · CSS · Web APIs
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" colspan="2">
 
-### 🎌 Sakura Radio · Unkai Radio
-Atmospheric internet radio players with immersive UI.
+### 🌸 [Sakura Radio](https://sakuraradio.netlify.app/)
+A beautiful Japanese-aesthetic internet radio player with cherry blossom visuals and immersive ambient sound.
 
-**Stack:** React · Web Audio API · Custom design
-
-</td>
-<td width="50%">
-
-### 🎬 Flix Movie App
-Movie discovery app with search, filtering, and details.
-
-**Stack:** React · REST API · Modern UI
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 AI Debate
-AI-powered debate platform where two AI agents argue topics.
-
-**Stack:** React · LLM API · Real-time streaming
-
-</td>
-<td width="50%">
-
-### 📊 NPM Chart Library
-Custom chart component library published on NPM.
-
-**Stack:** React · TypeScript · D3.js
+**Stack:** React · Web Audio API · Custom animated UI
 
 </td>
 </tr>
